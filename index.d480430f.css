@@ -12,6 +12,7 @@ html {
 }
 
 .mask-container {
+    opacity:0;
     z-index: 99999;
     mix-blend-mode: difference;
     justify-content: center;
