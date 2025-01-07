@@ -25,7 +25,7 @@ html {
 }
 
 #mask {
-    filter: blur(1px);
+    filter: blur(0px);
     width: auto;
     height: 60px
 }
